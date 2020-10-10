@@ -1,0 +1,26 @@
+{
+  "name": "nickel420-minecraft-server-status-bot",
+  "version": "1.0.0",
+  "description": "Nickel420's Minecraft Server Status Discord Bot",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "node-fetch": "^2.6.0",
+    "package.json": "^2.0.1",
+    "requirements-txt": "0.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/vegeta897/e4410669c921c2ab7635e1d0153b0bc6"
+  },
+  "author": "Nickel420 // procrastinat0r227",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/procrastinat0r227/ServerStatus-Public/issues"
+  },
+  "homepage": "https://github.com/procrastinat0r227/ServerStatus-Public/blob/main/README.md"
+}
