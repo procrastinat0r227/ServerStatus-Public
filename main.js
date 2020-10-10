@@ -63,7 +63,7 @@ const commands = {
     ip: {
         command: '!ip',
         text: {
-            main: 'The main IP for the server is `{ip}`. The alternate IP address can be found on !serverinfo' // If the server is hosted on a different port to 25565 and you don't have a DNS change the code here to 'The IP for the server is `{ip} + {port}`'
+            main: 'The main IP for the server is `{ip}`.' // If the server is hosted on a different port to 25565 and you don't have a DNS change the code here to 'The IP for the server is `{ip} + {port}`'
         }
     },
     version: {
