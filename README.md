@@ -1,5 +1,5 @@
 ## dependencies
-* `node-forman`
+* `node-foreman`
 * Node.js
 * `discord.js`
 
